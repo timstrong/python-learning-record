@@ -1,0 +1,15 @@
+kylin@127.0.0.1's password: qwer1234
+touch /home/kylin/done.txt
+scp kylin@localhost:/home/kylin/test.qqq /home/kylin/test/
+
+Welcome to Kylin V10 SP1 (GNU/Linux 5.10.0-8-generic x86_64)
+
+ * Management:     http://www.kylinos.cn/ * Support:        http://www.kylinos.cn/service.aspx
+Last login: Fri Jun 10 22:40:44 2022 from 127.0.0.1
+touch /home/kylin/done.txt
+]0;kylin@pc: ~[01;32mkylin@pc[00m:[01;34m~[00m$ touch /home/kylin/done.txt
+]0;kylin@pc: ~[01;32mkylin@pc[00m:[01;34m~[00m$ scp kylin@localhost:/home/kylin/test.qqq /home/kylin/test/
+kylin@localhost's password: qwer1234
+
+test.qqq                                        0%    0     0.0KB/s   --:-- ETAtest.qqq                                      100% 9728    20.9MB/s   00:00    
+]0;kylin@pc: ~[01;32mkylin@pc[00m:[01;34m~[00m$ 
